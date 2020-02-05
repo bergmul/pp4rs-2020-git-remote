@@ -1,0 +1,18 @@
+steps:
+
+1. clone the repository: git clone website
+
+2. pull the most recent version first: git pull
+
+3. go to the folder of the repository and open VS code
+
+4. edit the file 
+
+5. save, git add, git commit
+
+6. pull again to see if it's up to date: git pull
+
+7. push my change to github: git push
+
+
+
