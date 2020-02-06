@@ -2,7 +2,7 @@
 
 ## change editor for commit messages to nano
 
-- `git config –global core.editor “nano -w”`
+- git config –-global core.editor "nano -w"
 
 ## save your github initials to ~/.git-credentials
 
@@ -10,6 +10,3 @@ see: `https://stackoverflow.com/questions/11403407/git-asks-for-username-every-t
 
 - `git config credential.helper store`
 - `git push`
-
-
-blablabla
