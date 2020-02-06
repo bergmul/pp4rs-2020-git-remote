@@ -1,6 +1,6 @@
 # making git more comfy
 
-## change editor to nano
+## change editor for commit messages to nano
 
 - `git config –global core.editor “nano -w”`
 
